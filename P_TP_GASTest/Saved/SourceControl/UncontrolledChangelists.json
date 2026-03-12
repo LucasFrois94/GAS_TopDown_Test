@@ -1,0 +1,12 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"D:/GitHub/UnrealProjects/GAS_TopDown_Test/P_TP_GASTest/Content/TopDown/Blueprints/EffectActors/BP_DamageArea.uasset"
+			]
+		}
+	]
+}
