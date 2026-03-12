@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <None Include="..\..\P_TP_GASTest.uproject" />
+    <Filter Include="Source">
+      <UniqueIdentifier>{F31BBDD1-B3E8-3BCC-9652-680E16935819}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\P_TP_GASTest.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <None Include="..\..\Source\P_TP_GASTestEditor.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <None Include="..\..\.vsconfig" />
+    <Filter Include="Config">
+      <UniqueIdentifier>{FA535FFB-25E1-3D20-B416-52F9BE21E06E}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Config\DefaultEditor.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEditorPerProjectUserSettings.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEngine.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultGame.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultGameplayTags.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultInput.ini">
+      <Filter>Config</Filter>
+    </None>
+    <Filter Include="Source\P_TP_GASTest">
+      <UniqueIdentifier>{4EF90155-BE01-307E-9EDA-54B02BD26A83}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\P_TP_GASTest\P_TP_GASTest.Build.cs">
+      <Filter>Source\P_TP_GASTest</Filter>
+    </None>
+    <ClCompile Include="..\..\Source\P_TP_GASTest\P_TP_GASTest.cpp">
+      <Filter>Source\P_TP_GASTest</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\P_TP_GASTest\P_TP_GASTest.h">
+      <Filter>Source\P_TP_GASTest</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\P_TP_GASTest\P_TP_GASTestGameMode.cpp">
+      <Filter>Source\P_TP_GASTest</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\P_TP_GASTest\P_TP_GASTestGameMode.h">
+      <Filter>Source\P_TP_GASTest</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\P_TP_GASTest\P_TP_GASTestPlayerController.cpp">
+      <Filter>Source\P_TP_GASTest</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\P_TP_GASTest\P_TP_GASTestPlayerController.h">
+      <Filter>Source\P_TP_GASTest</Filter>
+    </ClCompile>
+    <Filter Include="Source\P_TP_GASTest\AttributeSets">
+      <UniqueIdentifier>{9C5FD00C-D8C0-3271-80F2-4F07464DA448}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Source\P_TP_GASTest\AttributeSets\PlayerAttributes.cpp">
+      <Filter>Source\P_TP_GASTest\AttributeSets</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\P_TP_GASTest\AttributeSets\PlayerAttributes.h">
+      <Filter>Source\P_TP_GASTest\AttributeSets</Filter>
+    </ClCompile>
+    <Filter Include="Source\P_TP_GASTest\Character">
+      <UniqueIdentifier>{1C4D22F2-F0CF-3BA9-932E-FF486A838326}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Source\P_TP_GASTest\Character\P_TP_GASTestCharacter.cpp">
+      <Filter>Source\P_TP_GASTest\Character</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\P_TP_GASTest\Character\P_TP_GASTestCharacter.h">
+      <Filter>Source\P_TP_GASTest\Character</Filter>
+    </ClCompile>
+    <Filter Include="Source\P_TP_GASTest\Gameplay">
+      <UniqueIdentifier>{A1EEAA7A-4F5E-399A-93C3-FEA15ACDECA9}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source\P_TP_GASTest\Gameplay\Damages">
+      <UniqueIdentifier>{569C7415-993D-3C4D-BAD8-1A95CF9B6C64}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Source\P_TP_GASTest\Gameplay\Damages\BaseDamage.cpp">
+      <Filter>Source\P_TP_GASTest\Gameplay\Damages</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\P_TP_GASTest\Gameplay\Damages\BaseDamage.h">
+      <Filter>Source\P_TP_GASTest\Gameplay\Damages</Filter>
+    </ClCompile>
+  </ItemGroup>
+</Project>

@@ -1,0 +1,14 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "c:\\users\\lucas\\documents\\unreal projects\\p_tp_gastest\\source\\p_tp_gastest\\p_tp_gastest.cpp",
+        "ProvidedModule": "",
+        "PCH": "c:\\users\\lucas\\documents\\unreal projects\\p_tp_gastest\\intermediate\\build\\win64\\x64\\p_tp_gastesteditor\\development\\unrealed\\sharedpch.unrealed.project.valapi.cpp20.h.pch",
+        "Includes": [
+            "c:\\users\\lucas\\documents\\unreal projects\\p_tp_gastest\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\p_tp_gastest\\definitions.p_tp_gastest.h",
+            "c:\\users\\lucas\\documents\\unreal projects\\p_tp_gastest\\source\\p_tp_gastest\\p_tp_gastest.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

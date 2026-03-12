@@ -1,0 +1,24 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "c:\\users\\lucas\\documents\\unreal projects\\p_tp_gastest\\intermediate\\build\\win64\\unrealeditor\\inc\\p_tp_gastest\\uht\\p_tp_gastestcharacter.gen.cpp",
+        "ProvidedModule": "",
+        "PCH": "c:\\users\\lucas\\documents\\unreal projects\\p_tp_gastest\\intermediate\\build\\win64\\x64\\p_tp_gastesteditor\\development\\unrealed\\sharedpch.unrealed.project.valapi.cpp20.h.pch",
+        "Includes": [
+            "c:\\users\\lucas\\documents\\unreal projects\\p_tp_gastest\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\p_tp_gastest\\definitions.p_tp_gastest.h",
+            "c:\\users\\lucas\\documents\\unreal projects\\p_tp_gastest\\source\\p_tp_gastest\\p_tp_gastestcharacter.h",
+            "c:\\program files\\epic games\\ue_5.5\\engine\\source\\runtime\\engine\\classes\\gameframework\\character.h",
+            "c:\\program files\\epic games\\ue_5.5\\engine\\source\\runtime\\engine\\classes\\gameframework\\charactermovementreplication.h",
+            "c:\\program files\\epic games\\ue_5.5\\engine\\source\\runtime\\net\\core\\public\\net\\core\\nettoken\\nettokenexportcontext.h",
+            "c:\\program files\\epic games\\ue_5.5\\engine\\source\\runtime\\experimental\\iris\\core\\public\\iris\\serialization\\irisobjectreferencepackagemap.h",
+            "c:\\program files\\epic games\\ue_5.5\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\iriscore\\uht\\irisobjectreferencepackagemap.generated.h",
+            "c:\\program files\\epic games\\ue_5.5\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\uht\\charactermovementreplication.generated.h",
+            "c:\\program files\\epic games\\ue_5.5\\engine\\source\\runtime\\engine\\classes\\gameframework\\rootmotionsource.h",
+            "c:\\program files\\epic games\\ue_5.5\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\uht\\rootmotionsource.generated.h",
+            "c:\\program files\\epic games\\ue_5.5\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\uht\\character.generated.h",
+            "c:\\users\\lucas\\documents\\unreal projects\\p_tp_gastest\\intermediate\\build\\win64\\unrealeditor\\inc\\p_tp_gastest\\uht\\p_tp_gastestcharacter.generated.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}
