@@ -75,18 +75,15 @@ void AP_TP_GASTestCharacter::PossessedBy(AController* NewController)
 	}
 }
 
-void AP_TP_GASTestCharacter::OnRep_PlayerState()
-{
-	Super::OnRep_PlayerState();
 
-	if (AbilitySystemComponent)
-	{
-		AbilitySystemComponent->RefreshAbilityActorInfo();
-	}
-}
 	
 UAbilitySystemComponent* AP_TP_GASTestCharacter::GetAbilitySystemComponent() const
 {
 	return AbilitySystemComponent;
+}
+
+void AP_TP_GASTestCharacter::GetOwnedGameplayTags(FGameplayTagContainer& TagContainer) const
+{
+	return AbilitySystemComponent->GetOwnedGameplayTags(TagContainer);
 }
 

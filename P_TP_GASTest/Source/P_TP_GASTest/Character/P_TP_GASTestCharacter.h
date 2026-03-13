@@ -30,7 +30,7 @@ protected:
 
 	virtual void PossessedBy(AController* NewController) override;
 	
-	virtual void OnRep_PlayerState() override;
+	
 		
 	// Called every frame.
 	virtual void Tick(float DeltaSeconds) override;

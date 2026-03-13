@@ -105,14 +105,14 @@ ABaseDamage::~ABaseDamage() {}
 // End Class ABaseDamage
 
 // Begin Registration
-struct Z_CompiledInDeferFile_FID_Users_Lucas_Documents_Unreal_Projects_P_TP_GASTest_Source_P_TP_GASTest_Gameplay_Damages_BaseDamage_h_Statics
+struct Z_CompiledInDeferFile_FID_P_TP_GASTest_Source_P_TP_GASTest_Gameplay_Damages_BaseDamage_h_Statics
 {
 	static constexpr FClassRegisterCompiledInInfo ClassInfo[] = {
 		{ Z_Construct_UClass_ABaseDamage, ABaseDamage::StaticClass, TEXT("ABaseDamage"), &Z_Registration_Info_UClass_ABaseDamage, CONSTRUCT_RELOAD_VERSION_INFO(FClassReloadVersionInfo, sizeof(ABaseDamage), 1790301450U) },
 	};
 };
-static FRegisterCompiledInInfo Z_CompiledInDeferFile_FID_Users_Lucas_Documents_Unreal_Projects_P_TP_GASTest_Source_P_TP_GASTest_Gameplay_Damages_BaseDamage_h_551911427(TEXT("/Script/P_TP_GASTest"),
-	Z_CompiledInDeferFile_FID_Users_Lucas_Documents_Unreal_Projects_P_TP_GASTest_Source_P_TP_GASTest_Gameplay_Damages_BaseDamage_h_Statics::ClassInfo, UE_ARRAY_COUNT(Z_CompiledInDeferFile_FID_Users_Lucas_Documents_Unreal_Projects_P_TP_GASTest_Source_P_TP_GASTest_Gameplay_Damages_BaseDamage_h_Statics::ClassInfo),
+static FRegisterCompiledInInfo Z_CompiledInDeferFile_FID_P_TP_GASTest_Source_P_TP_GASTest_Gameplay_Damages_BaseDamage_h_551911427(TEXT("/Script/P_TP_GASTest"),
+	Z_CompiledInDeferFile_FID_P_TP_GASTest_Source_P_TP_GASTest_Gameplay_Damages_BaseDamage_h_Statics::ClassInfo, UE_ARRAY_COUNT(Z_CompiledInDeferFile_FID_P_TP_GASTest_Source_P_TP_GASTest_Gameplay_Damages_BaseDamage_h_Statics::ClassInfo),
 	nullptr, 0,
 	nullptr, 0);
 // End Registration

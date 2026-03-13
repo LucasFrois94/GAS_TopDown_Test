@@ -67,7 +67,7 @@
     </ProjectConfiguration>
   </ItemGroup>
   <PropertyGroup Label="Globals">
-    <ProjectGuid>{9C5FA7E2-B48D-3BEA-862A-06CCF9555F5D}</ProjectGuid>
+    <ProjectGuid>{47DE295A-1B80-3394-8B45-A1942FD333B2}</ProjectGuid>
     <RootNamespace>P_TP_GASTest</RootNamespace>
   </PropertyGroup>
   <Import Project="UECommon.props" />
@@ -252,7 +252,6 @@
     <None Include="..\..\P_TP_GASTest.uproject"/>
     <None Include="..\..\Source\P_TP_GASTest.Target.cs"/>
     <None Include="..\..\Source\P_TP_GASTestEditor.Target.cs"/>
-    <None Include="..\..\.vsconfig"/>
     <None Include="..\..\Config\DefaultEditor.ini"/>
     <None Include="..\..\Config\DefaultEditorPerProjectUserSettings.ini"/>
     <None Include="..\..\Config\DefaultEngine.ini"/>

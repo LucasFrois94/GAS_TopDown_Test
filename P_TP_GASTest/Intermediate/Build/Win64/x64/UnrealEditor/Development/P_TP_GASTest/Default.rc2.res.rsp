@@ -84,5 +84,5 @@
 /DPROJECT_COPYRIGHT_STRING="Fill out your copyright notice in the Description page of Project Settings."
 /DPROJECT_PRODUCT_NAME="Top Down Game Template"
 /DPROJECT_PRODUCT_IDENTIFIER=P_TP_GASTest
-/fo "C:\Users\Lucas\Documents\Unreal Projects\P_TP_GASTest\Intermediate\Build\Win64\x64\UnrealEditor\Development\P_TP_GASTest\Default.rc2.res"
+/fo "D:\GitHub\UnrealProjects\GAS_TopDown_Test\P_TP_GASTest\Intermediate\Build\Win64\x64\UnrealEditor\Development\P_TP_GASTest\Default.rc2.res"
 "..\Build\Windows\Resources\Default.rc2"

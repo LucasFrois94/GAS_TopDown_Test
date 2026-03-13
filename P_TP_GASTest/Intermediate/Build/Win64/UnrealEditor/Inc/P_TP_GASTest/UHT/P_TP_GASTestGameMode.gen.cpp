@@ -78,14 +78,14 @@ AP_TP_GASTestGameMode::~AP_TP_GASTestGameMode() {}
 // End Class AP_TP_GASTestGameMode
 
 // Begin Registration
-struct Z_CompiledInDeferFile_FID_Users_Lucas_Documents_Unreal_Projects_P_TP_GASTest_Source_P_TP_GASTest_P_TP_GASTestGameMode_h_Statics
+struct Z_CompiledInDeferFile_FID_P_TP_GASTest_Source_P_TP_GASTest_P_TP_GASTestGameMode_h_Statics
 {
 	static constexpr FClassRegisterCompiledInInfo ClassInfo[] = {
 		{ Z_Construct_UClass_AP_TP_GASTestGameMode, AP_TP_GASTestGameMode::StaticClass, TEXT("AP_TP_GASTestGameMode"), &Z_Registration_Info_UClass_AP_TP_GASTestGameMode, CONSTRUCT_RELOAD_VERSION_INFO(FClassReloadVersionInfo, sizeof(AP_TP_GASTestGameMode), 296432711U) },
 	};
 };
-static FRegisterCompiledInInfo Z_CompiledInDeferFile_FID_Users_Lucas_Documents_Unreal_Projects_P_TP_GASTest_Source_P_TP_GASTest_P_TP_GASTestGameMode_h_1650115002(TEXT("/Script/P_TP_GASTest"),
-	Z_CompiledInDeferFile_FID_Users_Lucas_Documents_Unreal_Projects_P_TP_GASTest_Source_P_TP_GASTest_P_TP_GASTestGameMode_h_Statics::ClassInfo, UE_ARRAY_COUNT(Z_CompiledInDeferFile_FID_Users_Lucas_Documents_Unreal_Projects_P_TP_GASTest_Source_P_TP_GASTest_P_TP_GASTestGameMode_h_Statics::ClassInfo),
+static FRegisterCompiledInInfo Z_CompiledInDeferFile_FID_P_TP_GASTest_Source_P_TP_GASTest_P_TP_GASTestGameMode_h_1650115002(TEXT("/Script/P_TP_GASTest"),
+	Z_CompiledInDeferFile_FID_P_TP_GASTest_Source_P_TP_GASTest_P_TP_GASTestGameMode_h_Statics::ClassInfo, UE_ARRAY_COUNT(Z_CompiledInDeferFile_FID_P_TP_GASTest_Source_P_TP_GASTest_P_TP_GASTestGameMode_h_Statics::ClassInfo),
 	nullptr, 0,
 	nullptr, 0);
 // End Registration

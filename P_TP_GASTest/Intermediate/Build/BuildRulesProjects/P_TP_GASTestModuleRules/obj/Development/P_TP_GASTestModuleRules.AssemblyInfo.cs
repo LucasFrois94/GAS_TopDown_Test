@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("P_TP_GASTestModuleRules")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Development")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+c83f9aae9c7110b523910a44a12d705bd8ada60a")]
 [assembly: System.Reflection.AssemblyProductAttribute("P_TP_GASTestModuleRules")]
 [assembly: System.Reflection.AssemblyTitleAttribute("P_TP_GASTestModuleRules")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
